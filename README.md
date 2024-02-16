@@ -61,7 +61,21 @@ Finally - <br><br>
 
 
 ## Part 03 - Representing a face as a set of Measurements
- 
+ measure each eye, size of the cheekbones  and the width of mouth and so on <br><br>
+ ![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/37610377-e426-485e-a5e5-b531282e7f7c) <br><br>
+
+Here are two face , lets take three measurements for each face
+i.	Length of nose – 2.5 (left) | 2 (right)
+ii.	Width of mouth – 2.5 and  3 
+iii.	Distance of one eye to other 4 and 3.5<br><br>
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/633e95f2-1f57-4f65-932a-3af15732929f) <br><br>
+
+That distance is relay small or close each other(two point) that may be a same person.<br><br>
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/6c3080fb-404d-4700-b4ec-e742dc1d0a86)<br><br>
+
+using face_encodings library - output 128 values <br><br>
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/5d586430-75b6-4cfc-8878-b45cd34ff5e4) <br><br>
 
 
 
