@@ -78,5 +78,15 @@ using face_encodings library - output 128 values <br><br>
 ![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/5d586430-75b6-4cfc-8878-b45cd34ff5e4) <br><br>
 
 
+## Part 05 Euclidean distance 
 
+
+Face distance threshold – 
+Set a face maximum distance that is still considered the same face . 
+Lets assume the threshold value is 0.6.
+*  If the distance (a,b) > 0.6, not , match
+* 	If the distance (a,b) =< 0.6, they  match
+*  he lower the distance , the better the match
+<br><br>
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/17a745ee-acdd-47de-b872-3af7e3737052)
 
