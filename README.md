@@ -90,3 +90,8 @@ Lets assume the threshold value is 0.6.
 <br><br>
 ![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/17a745ee-acdd-47de-b872-3af7e3737052)
 
+## Part 6 - Fun Uses of face recognition
+
+* How to drawaing a image (makeup)
+* Choose best image from collection of images 
+
