@@ -19,3 +19,14 @@ Use of face recognition
 4.	Counting unique people
 5.	Finding people with similar appearances. 
 
+# Install libaries
+
+```
+pip install pillow 
+pip install face-recognition
+```
+
+if you are using google Co-lab set to Run time to GUP
+
+# Face Recognition
+
