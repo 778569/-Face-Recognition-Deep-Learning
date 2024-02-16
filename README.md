@@ -42,4 +42,22 @@ Analyzing an Image as a Histogram of Oriented Gradients <br><br>
 
 ![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/7e306434-1e8a-429f-bdf6-044116c6fde6)
 
+# face land mark estimation
+Identify key pint on the face – tip of the nose , center of the eye
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/30fdacf3-a01e-48e3-bd63-8c41a29f6c20)<br><br>
+
+Identifying Face Landmarks with a Machine learning model
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/6f09b7f9-4bb4-4060-8c4e-3681fbf187bb) <br><br>
+
+Calculate affine Transform <br><br>
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/30f20205-5e4e-4584-8eba-7e7e2d794917) <br><br>
+
+Finally - <br><br>
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/b59d4f7f-3421-42ba-8a92-de49584ed693) <br><br>
+
+
 
