@@ -60,4 +60,9 @@ Finally - <br><br>
 ![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/b59d4f7f-3421-42ba-8a92-de49584ed693) <br><br>
 
 
+## Part 03 - Representing a face as a set of Measurements
+ 
+
+
+
 
