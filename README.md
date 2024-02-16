@@ -28,5 +28,18 @@ pip install face-recognition
 
 if you are using google Co-lab set to Run time to GUP
 
-# Face Recognition
+# Part 02 - Face Recognition
+
+Sliding window classifier<br><br>
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/75838b3b-cedf-4010-8028-a9ecec082304)<br><br>
+
+Histogram of Oriented Gradients (HOG)<br><br>
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/b465d983-53df-4904-a6b0-760d9b254522)<br><br>
+
+Analyzing an Image as a Histogram of Oriented Gradients <br><br>
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/b0927838-0036-4a9e-abdb-d123de47e839)<br><br>
+
+![image](https://github.com/778569/Face-Recognition-Deep-Learning/assets/52319671/7e306434-1e8a-429f-bdf6-044116c6fde6)
+
 
